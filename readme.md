@@ -1,5 +1,9 @@
 Sykes Cottages coding exercise
-Using the included database, set up a search that allows users to search the properties by location, feature and date.  This is not a test of your design ability, however it should be responsive to work across mobile, tablet and desktop.  You may use frameworks if you wish for any elements of the front or back end.
+
+Using the included database, set up a search that allows users to search the properties by location, feature and date.  
+This is not a test of your design ability, however it should be responsive to work across mobile, tablet and desktop.  
+You may use frameworks if you wish for any elements of the front or back end.
+
 
 CREATE DATABASE  IF NOT EXISTS `sykes_interview` DEFAULT CHARACTER SET utf8 ;
 ​
