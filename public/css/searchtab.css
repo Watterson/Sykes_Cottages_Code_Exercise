@@ -1,0 +1,17 @@
+.search-group{
+  padding: 3rem 2rem;
+}
+label{
+  padding: .3rem;
+  margin-bottom: 2rem;
+}
+.first-element-label{
+  width: 5rem;
+}
+.form-check-input{
+  margin-left: 7.3rem;
+  margin-top: .7rem;
+}
+button{
+  height: 100%;
+}
